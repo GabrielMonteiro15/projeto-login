@@ -50,3 +50,7 @@ section#login{
     padding: 10px;
 
 }
+
+div#formulario > h1{
+    text-align: center;
+}
